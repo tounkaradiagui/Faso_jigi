@@ -1,2 +1,2 @@
 # Faso_jigi
-Conception et de l'application E-Bataki
+Conception de l'application E-Bataki
